@@ -107,8 +107,6 @@
 				874642C21D1ADD7800787312 /* ViewController.m */,
 				874642C41D1ADD7800787312 /* Main.storyboard */,
 				874642C71D1ADD7800787312 /* Assets.xcassets */,
-				874642C91D1ADD7800787312 /* LaunchScreen.storyboard */,
-				874642CC1D1ADD7800787312 /* Info.plist */,
 				874642BB1D1ADD7800787312 /* Supporting Files */,
 			);
 			path = wechat;
@@ -117,6 +115,8 @@
 		874642BB1D1ADD7800787312 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				874642C91D1ADD7800787312 /* LaunchScreen.storyboard */,
+				874642CC1D1ADD7800787312 /* Info.plist */,
 				874642BC1D1ADD7800787312 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -499,6 +499,7 @@
 				874642E71D1ADD7900787312 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		874642E81D1ADD7900787312 /* Build configuration list for PBXNativeTarget "wechatTests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +508,7 @@
 				874642EA1D1ADD7900787312 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		874642EB1D1ADD7900787312 /* Build configuration list for PBXNativeTarget "wechatUITests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +517,7 @@
 				874642ED1D1ADD7900787312 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
