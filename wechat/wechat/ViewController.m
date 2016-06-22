@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    NSLog(@"完成代码的github托管");
 }
 
 @end
